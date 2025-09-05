@@ -7,6 +7,10 @@ public class Inventatio {
 	public void metodoB() {
 		 System.out.println("ejecutando metodo B");
 	}
+	 
+    public void metodoC() { 
+        System.out.println("ejecutando metodo C"); 
+    }
 
 
 }
